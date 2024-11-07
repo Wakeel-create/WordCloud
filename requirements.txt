@@ -1,0 +1,11 @@
+docx
+matplotlib
+numpy
+pandas
+plotly
+PyPDF2
+python_docx
+seaborn
+streamlit
+wordcloud
+configparser
